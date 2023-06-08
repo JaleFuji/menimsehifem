@@ -1,0 +1,33 @@
+body{
+    background-color: #f0f0f0;
+
+    
+
+}
+.ana { position: center;}
+.box{
+    text-align: center;
+    border: 1px solid #ccc;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    text-align: center;
+    width: 30%;
+    
+    
+}
+.list { list-style-type: none;}
+.paragraf { text-align: center;
+}
+.button {
+    background-color:  #007bff;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    text-align: center;
+    border: none;
+    
+    
+
+}
